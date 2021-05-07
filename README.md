@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- Twitter: [@twitterhandle](https://twitter.com/ShaherShamroukh/)
+- Twitter: [@twitterhandle](https://twitter.com/AIvezic/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shaher-shamroukh/)
 - GitHub: [@githubhandle](https://github.com/Shaher-11/)
 
